@@ -22,6 +22,7 @@ public class OrderRepositoryV2 {
             helloTrace.end(status);
         } catch (Exception e) {
             helloTrace.exception(status, e);
+            throw e;
         }
     }
 
