@@ -1,4 +1,4 @@
-package hello.proxy.config.proxy.v1;
+package hello.proxy.config.proxy.v1.interfaceproxy;
 
 import hello.proxy.app.v1.*;
 import hello.proxy.trace.logtrace.LogTrace;
