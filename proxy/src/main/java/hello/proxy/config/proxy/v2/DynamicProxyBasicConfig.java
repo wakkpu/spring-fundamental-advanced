@@ -1,6 +1,7 @@
-package hello.proxy.config.proxy.v2.handler;
+package hello.proxy.config.proxy.v2;
 
 import hello.proxy.app.v1.*;
+import hello.proxy.config.proxy.v2.handler.LogTraceBasicHandler;
 import hello.proxy.trace.logtrace.LogTrace;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
